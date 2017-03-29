@@ -1,5 +1,11 @@
 # TetrisGameJava
+
 Tetris Basic game coded in Java
+
+# Authors
+
+Manuel Moya Ferrer
+Jose Manuel García Giménez
 
 # License
 
